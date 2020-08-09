@@ -5,12 +5,15 @@
 
 <br />
 
-![Pg-proffy](https://user-images.githubusercontent.com/60022350/89736913-717e7b80-da43-11ea-87d9-49d59e626d9d.png)
+
 ---
 
 <h2 align="center">
    📚 NextLevelWeek 2.0 📚
 </h2>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/60022350/89736913-717e7b80-da43-11ea-87d9-49d59e626d9d.png" width="300px"/>
+</div>
 
 ## 📖 Sobre 
 
