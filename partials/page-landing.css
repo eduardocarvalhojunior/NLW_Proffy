@@ -1,0 +1,11 @@
+:root {
+    font-size: 40%;
+}
+
+#page-landing {
+    background: var (--color-primary);
+}
+
+#page-landing #containe {
+    color: var(--color-text-in-primary);
+}
