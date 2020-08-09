@@ -4,8 +4,8 @@
 </div>
 
 <br />
-![Pg-proffy](https://user-images.githubusercontent.com/60022350/89736888-367c4800-da43-11ea-80b1-e74f634f0062.png)
 
+![Pg-proffy](https://user-images.githubusercontent.com/60022350/89736913-717e7b80-da43-11ea-87d9-49d59e626d9d.png)
 ---
 
 <h2 align="center">
