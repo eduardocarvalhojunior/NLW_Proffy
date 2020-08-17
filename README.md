@@ -6,7 +6,9 @@
 <br />
 
 
+
 ---
+
 
 <h2 align="center">
    📚 NextLevelWeek 2.0 📚
@@ -33,9 +35,12 @@ Sem que haja nenhuma limitação.
 
 ### 📱Rodando a aplicação mobile 
 
+
 🚧 Em construção... 🚧
 
+
 ## 😯 Como contribuir para o projeto
+
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -45,6 +50,7 @@ Sem que haja nenhuma limitação.
 
 
 ### Autor
+
 
 
 [Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
