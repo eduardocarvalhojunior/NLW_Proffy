@@ -14,8 +14,9 @@
    📚 NextLevelWeek 2.0 📚
 </h2>
 <div align="center">
- <img src="https://user-images.githubusercontent.com/60022350/89736913-717e7b80-da43-11ea-87d9-49d59e626d9d.png" width="700px"/>
+ <img src="https://user-images.githubusercontent.com/60022350/91112339-3db56f80-e659-11ea-9789-e4cdeac57e6b.gif" width="700px"/>
 </div>
+
 
 ## 📖 Sobre 
 
