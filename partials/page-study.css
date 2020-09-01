@@ -79,7 +79,6 @@
 
 #search-teachers button:hover {
     background-color: var(--color-secondary-dark);
-
 }
 
 .select-block label,
@@ -98,12 +97,10 @@
     outline: 0;
     padding: 0 1.6rem;
     font: 1.6rem Archivo;
-
 }
 
 .input-block {
     position: relative;
-
 }
 
 .input-block:focus-within::after {
@@ -114,13 +111,11 @@
     left: 1.6rem;
     right: 1.6rem;
     bottom: 0px;
-
 }
 
 #page-study main {
     margin: 3.2rem auto;
     width: 90%;
-
 }
 
 .teacher-item {
