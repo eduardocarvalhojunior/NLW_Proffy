@@ -12,6 +12,7 @@
 
 <h2 align="center">
    📚 NextLevelWeek 2.0 📚
+    
 </h2>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/60022350/91112339-3db56f80-e659-11ea-9789-e4cdeac57e6b.gif" width="700px"/>
@@ -30,7 +31,10 @@ Sem que haja nenhuma limitação.
 ![proffy-pag2](https://user-images.githubusercontent.com/60022350/89736691-983bb280-da41-11ea-91b6-c56de0b262a4.png)
 
 
+
+
 ![prffy-pag3](https://user-images.githubusercontent.com/60022350/89736693-9c67d000-da41-11ea-8d1c-7d95a9fbf855.png)
+
 
 
 
@@ -39,12 +43,12 @@ Sem que haja nenhuma limitação.
 ### 📱Rodando a aplicação mobile 
 
 
+
 ---
 
 
 
 🚧 Em construção... 🚧
-
 
 ---
 
@@ -52,10 +56,12 @@ Sem que haja nenhuma limitação.
 ## 😯 Como contribuir para o projeto
 
 
+
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
+
 
 
 
