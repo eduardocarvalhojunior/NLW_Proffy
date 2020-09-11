@@ -53,6 +53,15 @@ Sem que haja nenhuma limitação.
 ---
 
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Css3
+- Html5
+
+
+
 ## 😯 Como contribuir para o projeto
 
 
